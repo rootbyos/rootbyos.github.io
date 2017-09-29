@@ -24,4 +24,4 @@ Google了一下,需要下载谷歌提供的驱动软件
 
 ## 效果图
 
-![helloworld]({{site.url}}/assets/posts/2017-09-25-connect-android-to-mac/file-explore.png)
+![helloworld](/assets/posts/2017-09-25-connect-android-to-mac/file-explore.png)
