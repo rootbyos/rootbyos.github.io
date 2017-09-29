@@ -43,4 +43,4 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 
 ## 配置完成后的效果图
 
-![config]({{site.url}}/assets/posts/2017-09-29-shadowsocks-github-speed/config.png)
+![config](/assets/posts/2017-09-29-shadowsocks-github-speed/config.png)
