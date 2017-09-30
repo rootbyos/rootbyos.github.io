@@ -6,7 +6,7 @@ author: rootbyos
 date:   2017-09-29 22:58:36 +0800
 header-img: "assets/posts/2017-09-29-shadowsocks-github-speed/github.png"
 header-mask: 0.3
-#catalog:    true
+catalog:    true
 tags:
     - Git
     - Shadowsocks

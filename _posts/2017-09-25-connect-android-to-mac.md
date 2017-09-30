@@ -6,7 +6,7 @@ author: rootbyos
 date:   2017-09-25 20:57:36 +0800
 header-img: "assets/posts/2017-09-25-connect-android-to-mac/android-transfer.png"
 header-mask: 0.3
-#catalog:    true
+catalog:    true
 tags:
     - Mac
     - Android
