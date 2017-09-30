@@ -35,7 +35,7 @@ layout: default
                     </div>
                     <h1>{{ page.title }}</h1>
                     {% comment %}
-                        always create a h2 for keeping the margin , Hux
+                        always create a h2 for keeping the margin , rootbyos
                     {% endcomment %}
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
@@ -124,7 +124,7 @@ layout: default
                 {% if site.featured-tags %}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><a href="/tags/">Links</a></h5>
+                    <h5><a href="/tags/">Categories</a></h5>
                     <div class="tags">
         				{% for tag in site.tags %}
                             {% if tag[1].size > {{site.featured-condition-size}} %}
@@ -140,7 +140,7 @@ layout: default
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
-                <h5>FRIENDS</h5>
+                <h5>Links</h5>
                 <ul class="list-inline">
                     {% for friend in site.friends %}
                         <li><a href="{{friend.href}}">{{friend.title}}</a></li>
