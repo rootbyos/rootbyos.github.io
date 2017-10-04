@@ -60,8 +60,8 @@ netease_comment: true
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-107491103-1'            # Format: UA-xxxxxx-xxUA-107491103-1
+ga_domain: googlehub.cn
 
 
 
